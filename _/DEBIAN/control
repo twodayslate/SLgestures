@@ -1,0 +1,10 @@
+Package: com.twodayslate.tap2sl
+Name: tap2sl
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: twodayslate
+Author: twodayslate
+Section: Tweaks
+Version: 0.0.1-35
+Installed-Size: 72
